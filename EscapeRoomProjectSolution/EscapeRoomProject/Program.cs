@@ -32,7 +32,7 @@ namespace Start_Game_Console
         public static void StartGame()      //on call it ...
         {
             Console.WriteLine("Main Menu");
-            Console.WriteLine("Test");
+            Console.WriteLine("Testing");
         }
     }
 }

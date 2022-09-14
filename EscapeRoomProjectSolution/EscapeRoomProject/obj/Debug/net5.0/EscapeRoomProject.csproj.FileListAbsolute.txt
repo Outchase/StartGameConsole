@@ -1,0 +1,16 @@
+D:\SAE\1sem\4F01\StartGameConsole\EscapeRoomProjectSolution\EscapeRoomProject\bin\Debug\net5.0\EscapeRoomProject.exe
+D:\SAE\1sem\4F01\StartGameConsole\EscapeRoomProjectSolution\EscapeRoomProject\bin\Debug\net5.0\EscapeRoomProject.deps.json
+D:\SAE\1sem\4F01\StartGameConsole\EscapeRoomProjectSolution\EscapeRoomProject\bin\Debug\net5.0\EscapeRoomProject.runtimeconfig.json
+D:\SAE\1sem\4F01\StartGameConsole\EscapeRoomProjectSolution\EscapeRoomProject\bin\Debug\net5.0\EscapeRoomProject.runtimeconfig.dev.json
+D:\SAE\1sem\4F01\StartGameConsole\EscapeRoomProjectSolution\EscapeRoomProject\bin\Debug\net5.0\EscapeRoomProject.dll
+D:\SAE\1sem\4F01\StartGameConsole\EscapeRoomProjectSolution\EscapeRoomProject\bin\Debug\net5.0\EscapeRoomProject.pdb
+D:\SAE\1sem\4F01\StartGameConsole\EscapeRoomProjectSolution\EscapeRoomProject\obj\Debug\net5.0\EscapeRoomProject.csproj.AssemblyReference.cache
+D:\SAE\1sem\4F01\StartGameConsole\EscapeRoomProjectSolution\EscapeRoomProject\obj\Debug\net5.0\EscapeRoomProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\SAE\1sem\4F01\StartGameConsole\EscapeRoomProjectSolution\EscapeRoomProject\obj\Debug\net5.0\EscapeRoomProject.AssemblyInfoInputs.cache
+D:\SAE\1sem\4F01\StartGameConsole\EscapeRoomProjectSolution\EscapeRoomProject\obj\Debug\net5.0\EscapeRoomProject.AssemblyInfo.cs
+D:\SAE\1sem\4F01\StartGameConsole\EscapeRoomProjectSolution\EscapeRoomProject\obj\Debug\net5.0\EscapeRoomProject.csproj.CoreCompileInputs.cache
+D:\SAE\1sem\4F01\StartGameConsole\EscapeRoomProjectSolution\EscapeRoomProject\obj\Debug\net5.0\EscapeRoomProject.dll
+D:\SAE\1sem\4F01\StartGameConsole\EscapeRoomProjectSolution\EscapeRoomProject\obj\Debug\net5.0\refint\EscapeRoomProject.dll
+D:\SAE\1sem\4F01\StartGameConsole\EscapeRoomProjectSolution\EscapeRoomProject\obj\Debug\net5.0\EscapeRoomProject.pdb
+D:\SAE\1sem\4F01\StartGameConsole\EscapeRoomProjectSolution\EscapeRoomProject\obj\Debug\net5.0\EscapeRoomProject.genruntimeconfig.cache
+D:\SAE\1sem\4F01\StartGameConsole\EscapeRoomProjectSolution\EscapeRoomProject\obj\Debug\net5.0\ref\EscapeRoomProject.dll
